@@ -15,7 +15,7 @@ Welcome to the AI-Powered Travel Assistant! This Streamlit app uses OpenAI GPT-4
 Begin by cloning the GitHub repository to your local machine:
 
 ```bash
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+git clone https://github.com/RyanKatayi/travel_agent_ai.git
 ```
 ### Step 2: Install Dependencies
 
